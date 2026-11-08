@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/aliefeasan/leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0577-employee-bonus](https://github.com/aliefeasan/leetcode/tree/master/0577-employee-bonus) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/aliefeasan/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/aliefeasan/leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Array
 |  |
 | ------- |
