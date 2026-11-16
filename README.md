@@ -16,8 +16,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aliefeasan/leetcode/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/aliefeasan/leetcode/tree/master/0048-rotate-image) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aliefeasan/leetcode/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/aliefeasan/leetcode/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/aliefeasan/leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
